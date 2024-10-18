@@ -1,0 +1,23 @@
+/* .name{
+    height: 200px;
+    width: 200px;
+} */
+ *{
+    background-color: #0e0c0c;
+    color: red;
+ }
+ .div1{
+    display: flex;
+    flex-wrap: wrap;
+    /* padding: 10%; */
+ }
+ img{
+    width: 90vw;
+    height: 70vh;
+ }
+ 
+ video{
+    width: 90vw;
+    height: 70vh;
+ }
+ 
